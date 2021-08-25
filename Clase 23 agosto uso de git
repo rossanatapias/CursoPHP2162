@@ -1,0 +1,31 @@
+Git sirve para almacenar versiones de software
+crear carpetas Mkdir
+CREAR ARCHIVOS TOUCH
+nsavegar cd
+
+pwd
+donde estoy ubicado
+inicializar repositorio -> git init
+estado del repositorio  -> git status
+
+commits son las versiones
+
+git add agrega los archivos o carpetas al repositorio temporal
+
+git add . -> agrega todo
+
+git commit -m (-m -> es para poner un mensaje va entre comillas)
+
+git log -> ver las versiones
+
+git log --oneline (--oneline ->solo una linea)
+
+subir al repositorio remoto -> git pull (traer los cambios)
+
+-> git push (subit repositorio local al remoto, siempre hay que hacer un git pull)
+
+
+
+mi token github
+
+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
